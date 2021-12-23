@@ -1,0 +1,11 @@
+name: Cave-block
+author: Wax_dev
+version: 1.0.0
+api: 3.0.0
+main: Cave-Block\src\main
+website: https://github.com/HiroshimaTeam
+    
+commands:
+  Caveblock:
+    description: Item pour voir a traver les mur / sol
+      usage: /cave_block
